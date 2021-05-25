@@ -1,10 +1,10 @@
 package us.feras.mdv.demo;
 
-import us.feras.mdv.MarkdownView;
-import android.app.Activity;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
-import android.view.Window;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import us.feras.mdv.MarkdownView;
 
 public class RemoteMarkdownActivity extends AppCompatActivity {
 	@Override 
